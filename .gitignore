@@ -1,0 +1,7 @@
+# Ignore config files
+
+# backend/
+# frontend/
+# data/crypto/config.py
+# data/finance/config.py
+# tg_bot/config.py
