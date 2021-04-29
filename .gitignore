@@ -1,6 +1,19 @@
 # Ignore config files
 
-# backend/
+/backend/BukashkaCo.Finance/.idea
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Api/appsettings.Development.json
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Api/appsettings.json
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Api/bin
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Api/obj
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Application/bin
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Application/obj
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.DataAccess.PSQL/bin
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.DataAccess.PSQL/obj
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Domain/bin
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Domain/obj
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Tests/bin
+/backend/BukashkaCo.Finance/BukashkaCo.Finance.Tests/obj
+
 # frontend/
 # data/crypto/config.py
 # data/finance/config.py
